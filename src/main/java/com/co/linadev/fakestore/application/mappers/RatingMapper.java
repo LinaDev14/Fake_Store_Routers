@@ -2,9 +2,11 @@ package com.co.linadev.fakestore.application.mappers;
 
 import com.co.linadev.fakestore.domain.collections.Rating;
 import com.co.linadev.fakestore.domain.dto.RatingDto;
+import org.springframework.stereotype.Component;
 
 import java.util.function.Function;
 
+@Component
 public class RatingMapper {
 
     public Function<Rating, RatingDto> mapToDtoRating(){

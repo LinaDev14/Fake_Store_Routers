@@ -2,9 +2,11 @@ package com.co.linadev.fakestore.application.mappers;
 
 import com.co.linadev.fakestore.domain.collections.Payment;
 import com.co.linadev.fakestore.domain.dto.PaymentDto;
+import org.springframework.stereotype.Component;
 
 import java.util.function.Function;
 
+@Component
 public class PaymentMapper {
 
     public Function<Payment, PaymentDto> mapToDtoPayment(){

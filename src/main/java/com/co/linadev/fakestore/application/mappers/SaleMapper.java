@@ -2,9 +2,11 @@ package com.co.linadev.fakestore.application.mappers;
 
 import com.co.linadev.fakestore.domain.collections.Sale;
 import com.co.linadev.fakestore.domain.dto.SaleDto;
+import org.springframework.stereotype.Component;
 
 import java.util.function.Function;
 
+@Component
 public class SaleMapper {
 
     public Function<Sale, SaleDto> mapToDtoSale(){

@@ -2,9 +2,11 @@ package com.co.linadev.fakestore.application.mappers;
 
 import com.co.linadev.fakestore.domain.collections.Order;
 import com.co.linadev.fakestore.domain.dto.OrderDto;
+import org.springframework.stereotype.Component;
 
 import java.util.function.Function;
 
+@Component
 public class OrderMapper {
 
     public Function<Order, OrderDto> mapToDtoOder(){
