@@ -19,7 +19,8 @@ public class DeleteConsultantRouter {
         return route(
                 DELETE("/api/delete-consultant/{id}"),
                 request -> ServerResponse.ok()
-                        .body(BodyInserters.fromPublisher(deleteConsultantUseCase.deleteConsultant((request.pathVariable("id"))),
+                        .body(BodyInserters.fromPublisher(deleteConsultantUseCase.deleteConsultant((
+                                request.pathVariable("id"))),
                                 String.class)));
     }
 }

@@ -1,6 +1,6 @@
 package com.co.linadev.fakestore.adapters.consultant.queries;
 
-import com.co.linadev.fakestore.application.service.consultant.interfaces.FindConsultantById;
+import com.co.linadev.fakestore.application.service.consultant.implementations.FindConsultantByIdUseCase;
 import com.co.linadev.fakestore.domain.dto.ConsultantDto;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -16,8 +16,8 @@ import static org.springframework.web.reactive.function.server.RouterFunctions.r
 public class FindConsultantByIdRouter {
 
     @Bean
-    public RouterFunction<ServerResponse> findConsultantByIdRouterFunction(FindConsultantById findConsultantById){
-        return route(GET("api/resources/{id}"),
+    public RouterFunction<ServerResponse> findConsultantByIdRouterFunction(FindConsultantByIdUseCase findConsultantById){
+        return route(GET("api/consultant/{id}"),
                 request -> ServerResponse.ok()
                         .contentType(MediaType.APPLICATION_JSON)
                         .body(BodyInserters.fromPublisher(findConsultantById

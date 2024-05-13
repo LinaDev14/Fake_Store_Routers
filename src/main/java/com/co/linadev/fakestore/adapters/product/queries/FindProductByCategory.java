@@ -1,7 +1,8 @@
 package com.co.linadev.fakestore.adapters.product.queries;
 
-import com.co.linadev.fakestore.application.service.product.implementations.FindAllProductsByPriceGreaterThanUseCase;
+import com.co.linadev.fakestore.application.service.product.implementations.FindProductByCategoryUseCase;
 import com.co.linadev.fakestore.domain.dto.ProductDto;
+import com.co.linadev.fakestore.domain.utils.valueObjects.ProductCategory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.MediaType;
@@ -13,15 +14,16 @@ import static org.springframework.web.reactive.function.server.RequestPredicates
 import static org.springframework.web.reactive.function.server.RouterFunctions.route;
 
 @Configuration
-public class FindAllByPriceGreaterThanRouter {
+public class FindProductByCategory {
 
     @Bean
-    public RouterFunction<ServerResponse> findAllProductsByGreaterPriceRouterFunction(FindAllProductsByPriceGreaterThanUseCase findAllByPriceGreaterThanUseCase){
-        return route(GET("api/products/greater-price/{price}"),
+    public RouterFunction<ServerResponse> findProductByCategoryRouterFunction(FindProductByCategoryUseCase findProductByCategoryUseCase){
+        return route(GET("api/products/category/{category}"),
                 request -> ServerResponse.ok()
                         .contentType(MediaType.APPLICATION_JSON)
-                        .body(BodyInserters.fromPublisher(findAllByPriceGreaterThanUseCase
-                                .findAllByPriceGreaterThan(Double.valueOf(request.pathVariable("price"))), ProductDto.class)
+                        .body(BodyInserters.fromPublisher(findProductByCategoryUseCase
+                                .findProductByCategory(ProductCategory.valueOf(request.pathVariable("category"))),
+                                ProductDto.class)
                         )
         );
     }
