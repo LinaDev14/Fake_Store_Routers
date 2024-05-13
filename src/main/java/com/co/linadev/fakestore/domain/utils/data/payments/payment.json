@@ -1,0 +1,36 @@
+[
+  {
+    "paymentMethod" : "CREDIT_CARD",
+    "details": "Proveedor: Visa, Mastercard, American Express, etc. escripción del proceso de autorización de transacciones, incluidas las partes involucradas (emisor, adquirente, procesador de pagos)."
+  },
+  {
+    "paymentMethod" : "DEBIT_CARD",
+    "details": "Tipo de tarjeta (crédito o débito), redes aceptadas, opciones de seguridad (por ejemplo, verificación de identidad, tokenización"
+  },
+  {
+  "paymentMethod" : "PAYPAL",
+  "details": "Plataforma de pagos en línea que permite a los usuarios pagar y recibir pagos de forma segura en línea."
+},
+  {
+  "paymentMethod" : "BANK_TRANSFER",
+  "details": "Método de transferencia de fondos directamente desde una cuenta bancaria del pagador a la del receptor."
+},
+  {
+  "paymentMethod" : "CASH",
+  "details": "ago realizado directamente en efectivo en persona, en lugar de a través de un medio electrónico."
+},
+  {
+  "paymentMethod" : "CRYPTOCURRENCIES",
+  "details": " Bitcoin, Ethereum, Litecoin, etc."
+},
+  {
+    "paymentMethod" : "GOOGLE_PAY",
+    "details": "Los usuarios pueden vincular sus tarjetas de crédito y débito, así como cuentas bancarias, a su cuenta de Google Pay para realizar pagos de forma rápida y segura."
+  },
+  {
+    "paymentMethod" : "APPLE_PAY",
+    "details": "Los usuarios pueden vincular sus tarjetas de crédito y débito, así como cuentas bancarias, a su cuenta de Google Pay para realizar pagos de forma rápida y segura."
+  }
+]
+
+

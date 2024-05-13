@@ -1,0 +1,75 @@
+[
+  {
+    "product": "Laptop Ultradelgada",
+    "price": 310.99,
+    "description": "Trabaja y juega en cualquier lugar con nuestra laptop ultradelgada. Con un diseño elegante y compacto, esta laptop es perfecta para llevarla contigo a todas partes, mientras que su potente procesador y su capacidad de almacenamiento te permiten realizar múltiples tareas con facilidad y eficiencia.",
+    "productCategory": "TECH",
+    "image": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 5.0,
+    "stock": 50
+  },
+  {
+    "product": "Smartwatch",
+    "price": 120.49,
+    "description": "Mantente conectado y en forma con nuestro smartwatch. Equipado con una pantalla táctil a todo color, seguimiento de actividad física y notificaciones inteligentes, este smartwatch combina estilo y funcionalidad para ayudarte a mantenerte al día con tu vida activa y ocupada.,",
+    "productCategory": "TECH",
+    "image": "https://images.pexels.com/photos/2861929/pexels-photo-2861929.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.2,
+    "stock": 50
+  },
+  {
+    "product": "Auriculares Inalámbricos",
+    "price": 50.75,
+    "description": "Sumérgete en tu música favorita con nuestros auriculares inalámbricos. Con cancelación de ruido activa y calidad de sonido superior, estos auriculares te ofrecen una experiencia auditiva inmersiva y sin interrupciones, mientras que su diseño ergonómico garantiza comodidad durante todo el día.",
+    "productCategory": "TECH",
+    "image": "https://images.pexels.com/photos/6700057/pexels-photo-6700057.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Tableta",
+    "price": 115.75,
+    "description": "Disfruta de entretenimiento en tus manos con nuestra tableta. Con una pantalla de alta resolución y un rendimiento rápido, esta tableta es perfecta para ver películas, jugar juegos y navegar por Internet, mientras que su diseño ligero y portátil te permite llevarla contigo a dondequiera que vayas.",
+    "productCategory": "TECH",
+    "image": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Cámara Digital",
+    "price": 220.00,
+    "description": "Captura cada momento con nuestra cámara digital. Equipada con un sensor de alta resolución y un potente zoom óptico, esta cámara te permite tomar fotos y videos de calidad profesional, mientras que su diseño compacto y fácil de usar la hace perfecta para fotógrafos principiantes y expertos por igual.",
+    "productCategory": "TECH",
+    "image": "https://images.pexels.com/photos/20019330/pexels-photo-20019330/free-photo-of-camara-fotografia-tecnologia-lente.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Smartphone",
+    "price": 125.75,
+    "description": "Descubre la tecnología de vanguardia con nuestro smartphone. Equipado con un potente procesador, una pantalla de alta resolución y cámaras de calidad profesional, este teléfono te ofrece un rendimiento excepcional y una experiencia multimedia inigualable, todo ello en un diseño elegante y moderno.",
+    "productCategory": "TECH",
+    "image": "https://images.pexels.com/photos/336948/pexels-photo-336948.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Consola de Videojuegos de Última Generación",
+    "price": 415.75,
+    "description": "Sumérgete en la acción con nuestra consola de videojuegos de última generación. Equipada con un potente hardware y gráficos de alta definición, esta consola te ofrece una experiencia de juego inmersiva y emocionante, con juegos que cobran vida con detalles impresionantes y efectos visuales sorprendentes.",
+    "productCategory": "TECH",
+    "image": "https://images.pexels.com/photos/1174746/pexels-photo-1174746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Consola Multijugador",
+    "price": 315.75,
+    "description": "Disfruta de la diversión en familia con nuestra consola multijugador. Equipada con múltiples controladores y una amplia selección de juegos para todas las edades, esta consola es perfecta para reuniones familiares, fiestas y noches de juegos entre amigos, ofreciendo horas de entretenimiento para todos.",
+    "productCategory": "TECH",
+    "image": "https://images.pexels.com/photos/3945673/pexels-photo-3945673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  }
+
+]

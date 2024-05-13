@@ -1,0 +1,92 @@
+[
+  {
+    "product": "Bolso Tote",
+    "price": 30.99,
+    "description": "Este bolso tote combina a la perfección estilo y funcionalidad. Confeccionado en cuero de alta calidad, su diseño minimalista y moderno lo convierte en el complemento ideal para cualquier ocasión, ya sea un día de trabajo o una salida casual con amigos.",
+    "productCategory": "FASHION",
+    "image": "https://media.istockphoto.com/id/1271796113/es/foto/las-mujeres-sostienen-el-bolso-cerca-del-coche-de-lujo.jpg?s=1024x1024&w=is&k=20&c=tCqdc-8BdWZKreFUKy7FYFmh2uRWcSDYPMUEILoRGn8=",
+    "rate": 4.0,
+    "stock": 15
+  },
+  {
+    "product": "Bolso Bandolera",
+    "price": 20.49,
+    "description": " Haz una declaración de estilo con este bolso bandolera de inspiración bohemia. Su diseño artesanal y detalles bordados añaden un toque de color y textura a cualquier look, mientras que su tamaño compacto lo hace ideal para llevar lo esencial de forma cómoda y elegante.",
+    "productCategory": "FASHION",
+    "image": "https://media.istockphoto.com/id/1271796067/es/foto/las-mujeres-sostienen-el-bolso-en-el-coche-de-lujo.jpg?s=1024x1024&w=is&k=20&c=T1lOBRMcdN2N28QE1nzVCBVwh6B8z2jo5kDJUxAlB6Q=",
+    "rate": 4.5,
+    "stock": 50
+  },
+  {
+    "product": "Mochila Urbana",
+    "price": 15.75,
+    "description": "Prepárate para explorar la ciudad con esta mochila urbana de diseño contemporáneo. Con múltiples compartimentos y un diseño ergonómico, esta mochila te permite llevar todo lo que necesitas de forma organizada y con estilo, ya sea para ir al trabajo o para disfrutar de un día de turismo.",
+    "productCategory": "FASHION",
+    "image": "https://media.istockphoto.com/id/513811502/es/foto/bolsas-las-tendencias-de-moda-acercamiento-del-fabuloso-elegante-bolsa.jpg?s=1024x1024&w=is&k=20&c=YBh1Zhsf3gkQiZ_3DN0TYUFWnXJrwtO1jb6e984O2Z4=",
+    "rate": 4.8,
+    "stock": 20
+  },
+  {
+    "product": "Clutch de Noche",
+    "price": 15.75,
+    "description": "Completa tu look de noche con este clutch elegante y sofisticado. Confeccionado en satinado y adornado con detalles de pedrería, este clutch añade un toque de glamour a cualquier conjunto, ya sea para una cena elegante o una noche en la ciudad.",
+    "productCategory": "FASHION",
+    "image": "https://media.istockphoto.com/id/1396510795/es/foto/bolsa-de-mano-de-la-mujer.jpg?s=1024x1024&w=is&k=20&c=5wSHEqMMdgENMbHZfz3Ti0lQIUaybhBLQmOk7wqvxtE=",
+    "rate": 4.8,
+    "stock": 25
+  },
+  {
+    "product": "Bolso Crossbody",
+    "price": 15.75,
+    "description": "Lleva tus básicos diarios con estilo gracias a este bolso crossbody versátil y chic. Su diseño compacto y su correa ajustable te permiten llevarlo cómodamente en el hombro o cruzado, mientras que su acabado en cuero sintético le da un toque de elegancia a cualquier look casual.",
+    "productCategory": "FASHION",
+    "image": "https://media.istockphoto.com/id/1052697848/es/foto/estilo-de-moda-para-mujer.jpg?s=1024x1024&w=is&k=20&c=FRayErbELgTXEqo4bko6aK3ftDCPtZ-ZBcGdFN9TArY=",
+    "rate": 4.8,
+    "stock": 10
+  },
+  {
+    "product": "Bolso de Viaje",
+    "price": 15.75,
+    "description": " Prepárate para tus próximas aventuras con este bolso de viaje resistente y funcional. Confeccionado en lona duradera y equipado con múltiples bolsillos y compartimentos, este bolso es perfecto para llevar todo lo que necesitas durante tus escapadas de fin de semana o tus viajes alrededor del mundo.",
+    "productCategory": "FASHION",
+    "image": "https://media.istockphoto.com/id/693649350/es/foto/chica-sosteniendo-el-bolso-de-una-mujer-en-sus-manos.jpg?s=1024x1024&w=is&k=20&c=owS-DZOOOL7PHW9S6chpucvwgp9W7FciDc3hembXKCE=",
+    "rate": 4.8,
+    "stock": 5
+  },
+  {
+    "product": "Bolso Shopper",
+    "price": 15.75,
+    "description": "Añade un toque de estilo casual-chic a tu día a día con este bolso shopper espacioso y elegante. Confeccionado en cuero sintético de alta calidad y adornado con detalles metálicos, este bolso es perfecto para llevar todo lo que necesitas mientras te desplazas por la ciudad o haces tus compras.",
+    "productCategory": "FASHION",
+    "image": "https://media.istockphoto.com/id/869178776/es/foto/primer-plano-las-manos-de-mujer-con-bolso-de-moda-lujo-piel-de-serpiente-pit%C3%B3n-al-aire-libre.jpg?s=1024x1024&w=is&k=20&c=1xPV3rRTeE_oIlLdbhHM0dXfWeRY_yVEUPGlDg-3Frg=",
+    "rate": 4.8,
+    "stock": 10
+  },
+  {
+    "product": "Bolso de Cuero",
+    "price": 15.75,
+    "description": "Hazte con un clásico atemporal con este bolso de cuero elegante y sofisticado. Confeccionado en cuero genuino y acabado con detalles dorados, este bolso es perfecto para llevar a la oficina o para una salida elegante, añadiendo un toque de refinamiento a cualquier look.",
+    "productCategory": "FASHION",
+    "image": "https://media.istockphoto.com/id/869251420/es/foto/primer-plano-las-manos-de-mujer-con-bolso-de-moda-lujo-piel-de-serpiente-pit%C3%B3n-al-aire-libre.jpg?s=1024x1024&w=is&k=20&c=ZvRiHCe9nQsqpVTpfug6YmmZof87NEfMqS2jihX6-_A=",
+    "rate": 4.8,
+    "stock": 15
+  },
+  {
+    "product": "Bolso de Hombro",
+    "price": 15.75,
+    "description": "Revive la elegancia del pasado con este bolso de hombro de estilo retro. Confeccionado en piel sintética de acabado vintage y adornado con detalles de borlas, este bolso añade un toque de nostalgia a cualquier conjunto, ya sea para una tarde de compras o una cena con amigos.",
+    "productCategory": "FASHION",
+    "image": "https://media.istockphoto.com/id/876924486/es/foto/de-moda.jpg?s=1024x1024&w=is&k=20&c=_muMkrxXthnlBtgFAVs5F_HIDnjhk7bOoXEjwFe4LQY=",
+    "rate": 4.8,
+    "stock": 2
+  },
+  {
+    "product": "Bolso de Fiesta",
+    "price": 15.75,
+    "description": "Deslumbra en tus eventos especiales con este bolso de fiesta deslumbrante y glamuroso. Confeccionado en satén y adornado con pedrería y detalles de lentejuelas, este bolso es el complemento perfecto para añadir un toque de brillo a tu look de noche.",
+    "productCategory": "FASHION",
+    "image": "https://media.istockphoto.com/id/839036822/es/foto/moda-de-la-calle-closeup-de-monedero.jpg?s=1024x1024&w=is&k=20&c=KjUG1O2d3UbcKnDXgFAXtoCK9lyGBn5dkoRXMy-6oLs=",
+    "rate": 4.8,
+    "stock": 1
+  }
+]

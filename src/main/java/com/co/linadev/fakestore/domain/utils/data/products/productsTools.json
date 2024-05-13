@@ -1,0 +1,29 @@
+[
+  {
+    "product": "Destornillador Eléctrico",
+    "price": 10.99,
+    "description": "Domina tus proyectos de bricolaje con nuestro destornillador eléctrico. Con su potente motor y diseño ergonómico, este destornillador te permite trabajar con precisión y eficiencia, ya sea en tareas simples de mantenimiento o en proyectos más complejos de construcción.",
+    "productCategory": "TOOLS",
+    "image": "https://images.pexels.com/photos/47091/drill-milling-milling-machine-drilling-47091.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.5,
+    "stock": 100
+  },
+  {
+    "product": "Juego de Llaves Inglesas",
+    "price": 35.75,
+    "description": "Afronta cualquier tarea con nuestro juego de llaves inglesas. Fabricadas en acero resistente y con un diseño ajustable, estas llaves te proporcionan la versatilidad y la durabilidad necesarias para enfrentarte a una amplia variedad de trabajos de reparación y montaje.",
+    "productCategory": "TOOLS",
+    "image": "https://images.pexels.com/photos/957912/wrench-tool-workshop-metal-957912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Sierra Circular",
+    "price": 45.75,
+    "description": "Corta con precisión y eficiencia con nuestra sierra circular. Equipada con una hoja afilada y un motor potente, esta sierra te permite realizar cortes limpios y precisos en una variedad de materiales, desde madera hasta plástico y metal, facilitando la realización de proyectos de carpintería y construcción.",
+    "productCategory": "TOOLS",
+    "image": "https://images.pexels.com/photos/2317384/pexels-photo-2317384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  }
+]

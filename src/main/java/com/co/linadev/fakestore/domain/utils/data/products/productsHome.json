@@ -1,0 +1,137 @@
+[
+  {
+    "product": "Jarrón de Cerámica",
+    "price": 10.99,
+    "description": "Añade un toque de serenidad y estilo a tu hogar con nuestro jarrón de cerámica \"Estilo Zen\". Su diseño minimalista y su acabado mate crean un ambiente de tranquilidad y armonía, mientras que su forma elegante y sencilla lo convierte en el complemento perfecto para cualquier espacio.",
+    "productCategory": "HOME",
+    "image": "https://cdn.pixabay.com/photo/2018/01/20/23/48/home-3095591_1280.jpg",
+    "rate": 4.5,
+    "stock": 100
+  },
+  {
+    "product": "Jarrón de Vidrio Soplado",
+    "price": 20.49,
+    "description": "Embellece tu hogar con nuestro jarrón de vidrio soplado \"Elegancia Transparente\". Confeccionado a mano por expertos artesanos, cada jarrón es único y presenta un diseño delicado y sofisticado que añade un toque de lujo y luminosidad a cualquier ambiente.",
+    "productCategory": "HOME",
+    "image": "https://cdn.pixabay.com/photo/2018/01/19/22/13/vases-3093327_1280.jpg",
+    "rate": 4.2,
+    "stock": 50
+  },
+  {
+    "product": "Jarrón de Metal Forjado",
+    "price": 15.75,
+    "description": "Añade un toque de estilo industrial a tu hogar con nuestro jarrón de metal forjado. Con su diseño robusto y acabado envejecido, este jarrón añade un toque de carácter y personalidad a cualquier espacio, ya sea en el salón, el dormitorio o la entrada.",
+    "productCategory": "HOME",
+    "image": "https://cdn.pixabay.com/photo/2016/03/16/20/49/vase-1261693_1280.png",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Jarrón de Terracota",
+    "price": 15.75,
+    "description": "Aporta un toque de calidez y naturalidad a tu hogar con nuestro jarrón de terracota. Confeccionado en arcilla natural y acabado con detalles texturizados, este jarrón añade un toque rústico y acogedor a cualquier espacio, ya sea solo o con un hermoso ramo de flores.",
+    "productCategory": "HOME",
+    "image": "https://cdn.pixabay.com/photo/2013/10/12/20/04/ceramic-vase-194784_1280.jpg",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Jarrón Tallado de Madera",
+    "price": 15.75,
+    "description": "Dale un toque de encanto artesanal a tu hogar con nuestro jarrón tallado de madera. Confeccionado a mano por hábiles artesanos, cada jarrón presenta un diseño único y detallado que añade un toque de calidez y autenticidad a cualquier ambiente.",
+    "productCategory": "HOME",
+    "image": "https://cdn.pixabay.com/photo/2012/10/19/00/20/vases-62020_1280.jpg",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Jarrón de Cristal Tallado",
+    "price": 15.75,
+    "description": "Añade un toque de elegancia clásica a tu hogar con nuestro jarrón de cristal tallado. Con su diseño refinado y detalles intrincados, este jarrón añade un toque de sofisticación y glamour a cualquier espacio, ya sea solo o con un hermoso ramo de flores frescas.",
+    "productCategory": "HOME",
+    "image": "https://cdn.pixabay.com/photo/2024/04/02/11/15/ai-generated-8670677_1280.jpg",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Jarrón de Porcelana",
+    "price": 15.75,
+    "description": "Embellece tu hogar con nuestro jarrón de porcelana \"Belleza Tradicional\". Confeccionado en porcelana de alta calidad y decorado con delicados patrones florales, este jarrón añade un toque de gracia y refinamiento a cualquier ambiente, desde el salón hasta el comedor.",
+    "productCategory": "HOME",
+    "image": "https://cdn.pixabay.com/photo/2022/03/28/15/19/bottles-7097764_1280.jpg",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Jarrón Geométrico de Metal",
+    "price": 15.75,
+    "description": "Añade un toque de modernidad metálica a tu hogar con nuestro jarrón geométrico de metal. Con su diseño geométrico y acabado en tonos metálicos, este jarrón añade un toque de estilo contemporáneo a cualquier espacio, ya sea solo o con una selección de flores frescas o secas.\n",
+    "productCategory": "HOME",
+    "image": "https://cdn.pixabay.com/photo/2023/06/01/12/44/poppy-8033547_1280.jpg",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Jarrón de Mimbre ",
+    "price": 15.75,
+    "description": "Aporta un toque de encanto natural a tu hogar con nuestro jarrón de mimbre. Confeccionado con mimbre tejido a mano, este jarrón añade un toque de calidez y textura a cualquier espacio, ya sea en el salón, el dormitorio o el patio.",
+    "productCategory": "HOME",
+    "image": "https://cdn.pixabay.com/photo/2014/06/24/02/09/vases-375935_1280.jpg",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Jarrón de Cerámica esmaltada",
+    "price": 15.75,
+    "description": "Dale vida a tu hogar con nuestro jarrón de cerámica esmaltada \"Toque de Color\". Disponible en una variedad de colores vibrantes y acabados brillantes, este jarrón añade un toque de alegría y vitalidad a cualquier espacio, ya sea solo o con un hermoso ramo de flores frescas.",
+    "productCategory": "HOME",
+    "image": "https://cdn.pixabay.com/photo/2018/04/02/17/10/container-3284432_1280.jpg",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Set de Fundas de Almohada",
+    "price": 15.75,
+    "description": "Renueva tu dormitorio con nuestro set de fundas de almohada \"Estilo Refrescante\". Confeccionadas en tejidos transpirables y disponibles en una variedad de estampados y colores, estas fundas de almohada añaden un toque de frescura y estilo a tu espacio de descanso.",
+    "productCategory": "HOME",
+    "image": "https://images.pexels.com/photos/1768513/pexels-photo-1768513.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Cortina",
+    "price": 15.75,
+    "description": "Transforma tu baño en un oasis de relajación con nuestra cortina de ducha \"Estilo Spa\". Fabricada en tela resistente al agua y con un diseño elegante y minimalista, esta cortina de ducha crea un ambiente tranquilo y rejuvenecedor que te invita a desconectar y disfrutar de un merecido momento de cuidado personal.",
+    "productCategory": "HOME",
+    "image": "https://images.pexels.com/photos/910458/pexels-photo-910458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Monstera Deliciosa",
+    "price": 15.75,
+    "description": "Agrega un toque de exuberancia tropical a tu hogar con la Monstera Deliciosa. Con sus grandes hojas verde oscuro y su crecimiento vigoroso, esta planta es perfecta para añadir un toque de frescura y vitalidad a cualquier espacio interior.",
+    "productCategory": "HOME",
+    "image": "https://images.pexels.com/photos/2042915/pexels-photo-2042915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Suculenta",
+    "price": 15.75,
+    "description": "Añade un toque de belleza resistente a tu hogar con una variedad de suculentas. Con sus hojas carnosas y su capacidad para almacenar agua, estas plantas son perfectas para aquellos que buscan una opción de bajo mantenimiento que aún así añada un toque de color y vida a su hogar.",
+    "productCategory": "HOME",
+    "image": "https://images.pexels.com/photos/9130793/pexels-photo-9130793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Helecho Boston",
+    "price": 15.75,
+    "description": "Añade un toque de naturaleza a tu hogar con un helecho Boston. Con sus frondosas hojas verdes y su capacidad para purificar el aire, esta planta es perfecta para crear un ambiente fresco y acogedor en cualquier espacio interior.",
+    "productCategory": "HOME",
+    "image": "https://images.pexels.com/photos/2718447/pexels-photo-2718447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rate": 4.8,
+    "stock": 75
+  }
+]

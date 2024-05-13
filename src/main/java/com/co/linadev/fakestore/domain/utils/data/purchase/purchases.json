@@ -1,0 +1,27 @@
+[
+  {
+    "userId": "66418747630f4317d6058766",
+    "productId": "664187ca630f4317d6058798",
+    "status": "PENDING"
+  },
+  {
+    "userId": "66418747630f4317d6058767",
+    "productId": "664187ca630f4317d6058799",
+    "status": "IN_PROCESS"
+  },
+  {
+    "userId": "66418747630f4317d6058768",
+    "productId": "664187ca630f4317d605879a",
+    "status": "SHIPPED"
+  },
+  {
+    "userId": "66418747630f4317d6058769",
+    "productId": "664187ca630f4317d605879b",
+    "status": "DELIVERED"
+  },
+  {
+    "userId": "66418747630f4317d605876a",
+    "productId": "664187ca630f4317d605879c",
+    "status": "CANCELLED"
+  }
+]

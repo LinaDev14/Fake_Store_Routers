@@ -1,0 +1,74 @@
+[
+  {
+    "product": "Máscara de Pestañas",
+    "price": 10.99,
+    "description": " Eleva tus pestañas a nuevas alturas con nuestra máscara de pestañas \"Mirada Intensa\". Su fórmula voluminizadora y su cepillo de precisión se combinan para crear un efecto de volumen dramático que realza tus ojos instantáneamente.",
+    "productCategory": "MAKEUP",
+    "image": "https://img.freepik.com/foto-gratis/mujer-profesional-maquillando-ojos-chica_23-2148210754.jpg?t=st=1715352951~exp=1715356551~hmac=6a9bc88cd888f9577bb03077ed372b37ab5f850c7b1239a5d29e3e05347bcd92&w=360",
+    "rate": 4.5,
+    "stock": 50
+  },
+  {
+    "product": "Lápiz Labial Mate",
+    "price": 8.49,
+    "description": "Haz una declaración audaz con nuestro lápiz labial mate \"Rojo Pasión\". Su pigmentación intensa y su textura suave se deslizan sin esfuerzo sobre los labios, proporcionando un color vibrante de larga duración que no se desvanece.",
+    "productCategory": "MAKEUP",
+    "image": "https://img.freepik.com/fotos-premium/collage-labios-maquillaje_23-2150600034.jpg?w=360",
+    "rate": 5.0,
+    "stock": 50
+  },
+  {
+    "product": "Paleta de Contorno",
+    "price": 15.75,
+    "description": "Define tus rasgos faciales con nuestra paleta de contorno \"Esculpe y Define\". Con tonos para resaltar, contornear y iluminar, esta paleta te permite esculpir tu rostro para conseguir un aspecto esculpido y naturalmente definido.",
+    "productCategory": "MAKEUP",
+    "image": "https://img.freepik.com/foto-gratis/combinacion-texturas-maquillaje_23-2150039204.jpg?t=st=1715353591~exp=1715357191~hmac=747a1720f45d8c62e6b5d0a0ec06169bb634884da93eee48e72a81fb019bc10a&w=740",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Iluminador en Polvo",
+    "price": 12.75,
+    "description": "Añade un toque de luminosidad a tu piel con nuestro iluminador en polvo \"Brillo Celestial\". Su fórmula sedosa y altamente pigmentada se aplica suavemente sobre la piel, creando un resplandor radiante que destaca tus mejores características.",
+    "productCategory": "MAKEUP",
+    "image": "https://img.freepik.com/fotos-premium/bella-mujer-maquillaje-profesional_266785-259.jpg?w=360",
+    "rate": 4.8,
+    "stock": 20
+  },
+  {
+    "product": "Kit de Cejas ",
+    "price": 26.75,
+    "description": "Define y da forma a tus cejas con nuestro kit de cejas \"Arco Perfecto\". Con ceras, polvos y herramientas de aplicación, este kit todo en uno te permite crear cejas perfectamente definidas y con aspecto natural en minutos.",
+    "productCategory": "MAKEUP",
+    "image": "https://img.freepik.com/fotos-premium/maquillaje-herramientas-maquillaje-polvo_22736-1026.jpg?w=360",
+    "rate": 4.8,
+    "stock": 75
+  },
+  {
+    "product": "Difuminador de Maquillaje",
+    "price": 11.75,
+    "description": "Logra un acabado impecable con nuestro difuminador de maquillaje \"Suavidad Infinita\". Su diseño ergonómico y su textura suave se adaptan a los contornos de tu rostro, difuminando el maquillaje para un aspecto perfectamente mezclado.",
+    "productCategory": "MAKEUP",
+    "image": "https://img.freepik.com/foto-gratis/retrato-belleza-mujer-tranquila-jengibre-pelo-largo-mirando-otro-lado-mientras-sostiene-cepillo-cosmeticos_171337-942.jpg?t=st=1715353847~exp=1715357447~hmac=315ea7b1bf7a677b0fed21b5dd0642810aa4d192a7db7d9de67c9f3ed7c50d91&w=740",
+    "rate": 4.8,
+    "stock": 100
+  },
+  {
+    "product": "Paleta de Rubores",
+    "price": 15.75,
+    "description": "Añade un toque de color a tus mejillas con nuestra paleta de rubores \"Jardín Primaveral\". Con una selección de tonos inspirados en la naturaleza, esta paleta te permite crear looks frescos y radiantes que complementan cualquier estilo.",
+    "productCategory": "MAKEUP",
+    "image": "https://img.freepik.com/fotos-premium/paleta-rubor-manos-maquillador-primer-plano_449849-9455.jpg?w=740",
+    "rate": 4.8,
+    "stock": 50
+  },
+  {
+    "product": "Sombras de Ojos Líquidas",
+    "price": 17.75,
+    "description": "Añade un toque de brillo a tus ojos con nuestras sombras de ojos líquidas \"Brillo Metálico\". Su fórmula de secado rápido y su aplicador de precisión te permiten crear looks brillantes y llamativos con facilidad.",
+    "productCategory": "MAKEUP",
+    "image": "https://img.freepik.com/foto-gratis/maquilladora-aplicando-sombra-ojos-mujer-pincel_23-2148332523.jpg?t=st=1715353972~exp=1715357572~hmac=cc736429df184a881dea9daa225d5c590465dda0959228b636dc1dbd46aaccb3&w=740",
+    "rate": 4.8,
+    "stock": 20
+  }
+]
